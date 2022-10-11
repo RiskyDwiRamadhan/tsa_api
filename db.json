@@ -1,15 +1,15 @@
 {
     "hewan": [
-      { "id": 1, "gambar": "https://cdn.pixabay.com/photo/2021/03/11/13/14/elephant-6087079__340.png", "bindo": "Anjing Laut", "bing": "Seals", "kategori": "Animal"},
-      { "id": 2, "gambar": "https://cdn.pixabay.com/photo/2021/03/11/13/14/elephant-6087079__340.png", "bindo": "Anjing", "bing": "Dog", "kategori": "Animal"},
-      { "id": 3, "gambar": "https://cdn.pixabay.com/photo/2021/03/11/13/14/elephant-6087079__340.png", "bindo": "Buaya", "bing": "Crocodile", "kategori": "Animal"},
-      { "id": 4, "gambar": "https://cdn.pixabay.com/photo/2021/03/11/13/14/elephant-6087079__340.png", "bindo": "Burung Hantu", "bing": "Owl", "kategori": "Animal"},
-      { "id": 5, "gambar": "https://cdn.pixabay.com/photo/2021/03/11/13/14/elephant-6087079__340.png", "bindo": "Gajah", "bing": "Elephant", "kategori": "Animal"},
-      { "id": 6, "gambar": "https://cdn.pixabay.com/photo/2021/03/11/13/14/elephant-6087079__340.png", "bindo": "Gurita", "bing": "Octopus", "kategori": "Animal"},
-      { "id": 7, "gambar": "https://cdn.pixabay.com/photo/2021/03/11/13/14/elephant-6087079__340.png", "bindo": "Harimau", "bing": "Tiger", "kategori": "Animal"},
-      { "id": 8, "gambar": "https://cdn.pixabay.com/photo/2021/03/11/13/14/elephant-6087079__340.png", "bindo": "Kucing", "bing": "Cat", "kategori": "Animal"},
-      { "id": 9, "gambar": "https://cdn.pixabay.com/photo/2021/03/11/13/14/elephant-6087079__340.png", "bindo": "Monyet", "bing": "Monkey", "kategori": "Animal"},
-      { "id": 10, "gambar": "https://cdn.pixabay.com/photo/2021/03/11/13/14/elephant-6087079__340.png", "bindo": "Panda", "bing": "Panda", "kategori": "Animal"}
+      { "id": 1, "gambar": "assets/images/anjinglaut.png", "bindo": "Anjing Laut", "bing": "Seals", "kategori": "Animal"},
+      { "id": 2, "gambar": "assets/images/anjing.png", "bindo": "Anjing", "bing": "Dog", "kategori": "Animal"},
+      { "id": 3, "gambar": "assets/images/buaya.png", "bindo": "Buaya", "bing": "Crocodile", "kategori": "Animal"},
+      { "id": 4, "gambar": "assets/images/burunghantu.png", "bindo": "Burung Hantu", "bing": "Owl", "kategori": "Animal"},
+      { "id": 5, "gambar": "assets/images/gajah.png", "bindo": "Gajah", "bing": "Elephant", "kategori": "Animal"},
+      { "id": 6, "gambar": "assets/images/gurita.png", "bindo": "Gurita", "bing": "Octopus", "kategori": "Animal"},
+      { "id": 7, "gambar": "assets/images/harimau.png", "bindo": "Harimau", "bing": "Tiger", "kategori": "Animal"},
+      { "id": 8, "gambar": "assets/images/kucing.png", "bindo": "Kucing", "bing": "Cat", "kategori": "Animal"},
+      { "id": 9, "gambar": "assets/images/monyet.png", "bindo": "Monyet", "bing": "Monkey", "kategori": "Animal"},
+      { "id": 10, "gambar": "assets/images/panda.png", "bindo": "Panda", "bing": "Panda", "kategori": "Animal"}
     ],
     "comments": [
       { "id": 1, "body": "some comment", "postId": 1 },
