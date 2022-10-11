@@ -1,8 +1,15 @@
 {
-    "posts": [
-      { "id": 1, "title": "Post 1" },
-      { "id": 2, "title": "Post 2" },
-      { "id": 3, "title": "Post 3" }
+    "hewan": [
+      { "id": 1, "gambar": "anjinglaut.png", "bindo": "Anjing Laut", "bing": "Seals", "kategori": "Animal"},
+      { "id": 2, "gambar": "anjing.png", "bindo": "Anjing", "bing": "Dog", "kategori": "Animal"},
+      { "id": 3, "gambar": "buaya.png", "bindo": "Buaya", "bing": "Crocodile", "kategori": "Animal"},
+      { "id": 4, "gambar": "burunghantu.png", "bindo": "Burung Hantu", "bing": "Owl", "kategori": "Animal"},
+      { "id": 5, "gambar": "gajah.png", "bindo": "Gajah", "bing": "Elephant", "kategori": "Animal"},
+      { "id": 6, "gambar": "gurita.png", "bindo": "Gurita", "bing": "Octopus", "kategori": "Animal"},
+      { "id": 7, "gambar": "harimau.png", "bindo": "Harimau", "bing": "Tiger", "kategori": "Animal"},
+      { "id": 8, "gambar": "kucing.png", "bindo": "Kucing", "bing": "Cat", "kategori": "Animal"},
+      { "id": 9, "gambar": "monyet.png", "bindo": "Monyet", "bing": "Monkey", "kategori": "Animal"},
+      { "id": 10, "gambar": "panda.png", "bindo": "Panda", "bing": "Panda", "kategori": "Animal"}
     ],
     "comments": [
       { "id": 1, "body": "some comment", "postId": 1 },
