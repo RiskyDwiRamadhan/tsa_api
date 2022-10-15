@@ -12,16 +12,16 @@
       { "id": 10, "gambar": "assets/images/panda.png", "bindo": "Panda", "bing": "Panda", "kategori": "Animal"}
     ],
     "kategoris": [
-      { "id": 1, "body": "Animal", "postId": 1 },
-      { "id": 2, "body": "Food", "postId": 1 },
-      { "id": 3, "body": "Famili", "postId": 1 },
-      { "id": 4, "body": "Number", "postId": 1 },
-      { "id": 5, "body": "Colors", "postId": 1 },
-      { "id": 6, "body": "Alphabet", "postId": 1 },
-      { "id": 7, "body": "Transport", "postId": 1 },
-      { "id": 8, "body": "Fruits", "postId": 1 },
-      { "id": 9, "body": "Vegetables", "postId": 1 },
-      { "id": 10, "body": "Verbs", "postId": 1 }
+      { "id": 1, "body": "Animal", "gambar": "assets/images/owl.png" },
+      { "id": 2, "body": "Food", "gambar": "assets/images/hot-pot.png" },
+      { "id": 3, "body": "Family", "gambar": "assets/images/family.png" },
+      { "id": 4, "body": "Number", "gambar": "assets/images/number-blocks.png" },
+      { "id": 5, "body": "Colors", "gambar": "assets/images/palette.png" },
+      { "id": 6, "body": "Alphabet", "gambar": "assets/images/abc.png" },
+      { "id": 7, "body": "Transport", "gambar": "assets/images/transportation.png" },
+      { "id": 8, "body": "Fruits", "gambar": "assets/images/fruit.png" },
+      { "id": 9, "body": "Vegetables", "gambar": "assets/images/vegetables.png" },
+      { "id": 10, "body": "Sport", "gambar": "assets/images/sport.png" }
     ],
     "profile": {
       "name": "typicode"
