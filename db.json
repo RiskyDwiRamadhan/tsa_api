@@ -11,9 +11,17 @@
       { "id": 9, "gambar": "assets/images/monyet.png", "bindo": "Monyet", "bing": "Monkey", "kategori": "Animal"},
       { "id": 10, "gambar": "assets/images/panda.png", "bindo": "Panda", "bing": "Panda", "kategori": "Animal"}
     ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 },
-      { "id": 2, "body": "some comment", "postId": 1 }
+    "kategoris": [
+      { "id": 1, "body": "Animal", "postId": 1 },
+      { "id": 2, "body": "Food", "postId": 1 },
+      { "id": 3, "body": "Famili", "postId": 1 },
+      { "id": 4, "body": "Number", "postId": 1 },
+      { "id": 5, "body": "Colors", "postId": 1 },
+      { "id": 6, "body": "Alphabet", "postId": 1 },
+      { "id": 7, "body": "Transport", "postId": 1 },
+      { "id": 8, "body": "Fruits", "postId": 1 },
+      { "id": 9, "body": "Vegetables", "postId": 1 },
+      { "id": 10, "body": "Verbs", "postId": 1 }
     ],
     "profile": {
       "name": "typicode"
