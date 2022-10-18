@@ -1,5 +1,5 @@
 {
-    "hewan": [
+    "kosakata": [
       { "id": 1, "gambar": "assets/images/anjinglaut.png", "bindo": "Anjing Laut", "bing": "Seals", "kategori": "Animal"},
       { "id": 2, "gambar": "assets/images/anjing.png", "bindo": "Anjing", "bing": "Dog", "kategori": "Animal"},
       { "id": 3, "gambar": "assets/images/buaya.png", "bindo": "Buaya", "bing": "Crocodile", "kategori": "Animal"},
