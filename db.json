@@ -9,7 +9,18 @@
       { "id": 7, "gambar": "assets/images/harimau.png", "bindo": "Harimau", "bing": "Tiger", "kategori": "Animal"},
       { "id": 8, "gambar": "assets/images/kucing.png", "bindo": "Kucing", "bing": "Cat", "kategori": "Animal"},
       { "id": 9, "gambar": "assets/images/monyet.png", "bindo": "Monyet", "bing": "Monkey", "kategori": "Animal"},
-      { "id": 10, "gambar": "assets/images/panda.png", "bindo": "Panda", "bing": "Panda", "kategori": "Animal"}
+      { "id": 10, "gambar": "assets/images/panda.png", "bindo": "Panda", "bing": "Panda", "kategori": "Animal"},
+
+      { "id": 11, "gambar": "assets/images/Sapi.png", "bindo": "Sapi", "bing": "Cow", "kategori": "Animal"},
+      { "id": 12, "gambar": "assets/images/Kuda.png", "bindo": "Kuda", "bing": "Horse", "kategori": "Animal"},
+      { "id": 13, "gambar": "assets/images/Jerapah.png", "bindo": "Jerapah", "bing": "Giraffe", "kategori": "Animal"},
+      { "id": 14, "gambar": "assets/images/Rusa.png", "bindo": "Rusa", "bing": "Deer", "kategori": "Animal"},
+      { "id": 15, "gambar": "assets/images/Kelinci.png", "bindo": "Kelinci", "bing": "Rabbit", "kategori": "Animal"},
+      { "id": 16, "gambar": "assets/images/Lebah.png", "bindo": "Lebah", "bing": "Bee", "kategori": "Animal"},
+      { "id": 17, "gambar": "assets/images/Kelelawar.png", "bindo": "Kelelawar", "bing": "Bat", "kategori": "Animal"},
+      { "id": 18, "gambar": "assets/images/KudaNil.png", "bindo": "Kuda Nil", "bing": "Hippopotamus", "kategori": "Animal"},
+      { "id": 19, "gambar": "assets/images/Zebra.png", "bindo": "Zebra", "bing": "Zebra", "kategori": "Animal"},
+      { "id": 20, "gambar": "assets/images/Unta.png", "bindo": "Unta", "bing": "Camel", "kategori": "Animal"}
     ],
     "kategoris": [
       { "id": 1, "body": "Animal", "gambar": "assets/images/owl.png" },
